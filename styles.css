@@ -1,0 +1,54 @@
+body {
+  background-color: lightblue;
+}
+
+#head1, #intro {
+  text-align: center;
+}
+
+#intro {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+h1, h2 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: normal;
+}
+
+#head2 {
+  background-color: yellow;
+  padding: 10px;
+  width: 300px;
+}
+
+.contact {
+  text-align: right;
+}
+
+#bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: chocolate;
+}
+
+#myList {
+  float: left;
+}
+
+#myList a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#myList a:hover {
+  background-color: #111;
+}
